@@ -5,10 +5,10 @@
  ## General info
   Implemented a connection between a Ruby on Rails back-end and React front-end in two applications with different repositories.
   This is front-and React app. Fetching  messages from back-end endpoint and rendering in random order.
-
+ ## Parts
   This project contains two separate repositories:
-    * hell-react-front-end
-      hello-rails-back-end. The back-end repo is [here](https://github.com/VuDej/hello-react-front-end.git)
+    * hell-react-front-end *
+    - hello-rails-back-end. The back-end repo is [here](https://github.com/VuDej/hello-react-front-end.git)
 
  ## Built with
 Project is created with:
