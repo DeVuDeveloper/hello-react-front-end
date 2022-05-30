@@ -8,7 +8,7 @@
 
   This project contains two separate repositories:
     * hell-react-front-end
-      hello-rails-back-end. The back-end repo is [here](https://github.com/VuDej/hello-react-front-end.git)
+    * hello-rails-back-end. The back-end repo is [here](https://github.com/VuDej/hello-react-front-end.git)
 
  ## Built with
 Project is created with:
