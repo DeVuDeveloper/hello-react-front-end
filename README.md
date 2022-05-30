@@ -7,8 +7,8 @@
   This is front-and React app. Fetching  messages from back-end endpoint and rendering in random order.
  ## Parts
   This project contains two separate repositories:
-    * hell-react-front-end *
-    - hello-rails-back-end. The back-end repo is [here](https://github.com/VuDej/hello-react-front-end.git)
+    * hell-react-front-end
+    * hello-rails-back-end. The back-end repo is [here](https://github.com/VuDej/hello-rails-back-end/pull/1))
 
  ## Built with
 Project is created with:
